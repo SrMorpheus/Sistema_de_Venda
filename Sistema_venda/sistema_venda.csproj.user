@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Tela\AdicionarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\AlterarCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\AlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\MapaUnifap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\Perfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\View_Vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\view_Estoques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\View_Historicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\View_Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\CadProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\Editar produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\EditarProdutoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\Entrada de Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\EsqueceuSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

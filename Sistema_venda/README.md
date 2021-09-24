@@ -1,0 +1,1 @@
+Sistema de Venda para disciplina de Banco de Dados.
