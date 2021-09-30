@@ -1,6 +1,6 @@
-# Sistema de Venda
+# :technologist:Sistema de Venda
 
-* sistema de venda teve como objetivo solucionar uma demanda proposta na disciplina de Banco de Dados, sendo essa o gerenciador de estoque e vendas para os vendedores da UNIFAP
+* Sistema de venda que  teve como objetivo solucionar uma demanda proposta na disciplina de Banco de Dados, sendo essa o gerenciador de estoque e vendas para os vendedores da UNIFAP
 
 
 ### 📋 Pré-requisitos
