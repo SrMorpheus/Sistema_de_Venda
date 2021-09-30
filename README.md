@@ -12,7 +12,7 @@
 
 ## 📦 Desenvolvimento
 
-O Sistema ainda é só um protótipo de uma possível de um futuro sistema web.
+O Sistema ainda é só um protótipo de uma possível sistema web.
 
 ## 🛠️ Construído com
 
