@@ -25,3 +25,6 @@ O Sistema ainda é só um protótipo de uma possível sistema web.
 ## ✒️ Autores
 
 * ***Bruno Gonçalves Barros*** - *Trabalho Inicial* - [DBA E DESENVOLVEDOR ](https://github.com/SrMorpheus)
+* ***Leandro de Jesus Cavalcante da Silva*** - *Trabalho Inicial* - [Ux/Ui Designer ](https://github.com/doomquest3)
+
+
