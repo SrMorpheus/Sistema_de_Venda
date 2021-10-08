@@ -6,7 +6,7 @@
 <div  style=" align=center ; border:1px solid black;">
  
  <p>
-  <br/> O projeto trata-se de gerenciador de vendas e estoque com o objetivo de solucionar uma demanda proposta na disciplina de Banco de Dados 1 e 2, do curso ciência da         computação  da Universidade federal do Amapá (Unifap-AP), sendo a proposta de gerenciar estoque e vendas para os vendedores ambulantes e alunos que trabalham no campus marco     zero na unifap.
+  <br/> O projeto trata-se de gerenciador de vendas e estoque com o objetivo de solucionar uma demanda proposta na disciplina de Banco de Dados 1 e 2, do curso ciência da computação da Universidade federal do Amapá (Unifap-AP), sendo a proposta de gerenciar estoque e vendas para os vendedores ambulantes e alunos que trabalham no campus marco     zero na unifap.
   Projeto foi realizado através de um prototipo.
  </p>
 </div>
@@ -99,5 +99,4 @@
 
 * ***Bruno Gonçalves Barros*** - *Trabalho Inicial* - [DBA E DESENVOLVEDOR ](https://github.com/SrMorpheus)
 * ***Leandro de Jesus Cavalcante da Silva*** - *Trabalho Inicial* - [Ux/Ui Designer ](https://github.com/doomquest3)
-
 
