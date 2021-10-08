@@ -20,37 +20,37 @@
 <p float="left">
     Front-end: Visual studio
     Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
-    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
+    <img align="center" height="50" width="50" src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/VisualStudio.png">
 </p>
  
  ## Back-End
 
  <p float="left">
     Back-end: C# .Net
-    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png">
+    <img align="center" height="100" width="100" src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/C%23.png">
 </p>
  
  ## Banco de Dados
  
 <p float="left">
     Banco de dados: Mysql Workbench.
-    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
+    <img align="center" height="50" width="50" src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/MySql.png">
 </p>
 
  <br />
 
 <p float="left">
     Servidor do banco de dados: Xampp.
-    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
+    <img align="center" height="50" width="50" src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/Xampp.png">
 </p>
   
 <br />
 
-## Layout para Computador
+##  📦 Layout para Computador
 
 ## Tela de login
 
-<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
+<img src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
 
 <br />
 
@@ -58,7 +58,7 @@
 
 <br />
 
-<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg">
+<img src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg">
 
 <br />
 
@@ -66,7 +66,7 @@
 
 <br />
 
-<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaMenu.jpeg">
+<img src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/TelaMenu.jpeg">
 
 <br />
 
@@ -74,7 +74,7 @@
 
 <br />
 
-<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaEstoque.jpeg">
+<img src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/TelaEstoque.jpeg">
 
 <br />
 
@@ -82,11 +82,11 @@
 
 <br />
 
-<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaResetarSenha.jpeg">
+<img src="https://github.com/SrMorpheus/Sistema_de_Venda/blob/master/imagens%20para%20repositorio/TelaResetarSenha.jpeg">
 
 <br />
 
-## Prototipo em imagens
+##  📦 Prototipo em imagens
 
 <p>
  Foi utilizado o site Figma para criação de um prototipo das telas do sistema de venda para ilustrar como seria feito, quais
@@ -99,4 +99,5 @@
 
 * ***Bruno Gonçalves Barros*** - *Trabalho Inicial* - [DBA E DESENVOLVEDOR ](https://github.com/SrMorpheus)
 * ***Leandro de Jesus Cavalcante da Silva*** - *Trabalho Inicial* - [Ux/Ui Designer ](https://github.com/doomquest3)
+
 
